@@ -1,3 +1,15 @@
-title: Joacim's Markdown Blog
-description: Just a simple blog
-theme: minima
+title: Markdown Blog
+description: >-
+  Just a simple Blog
+author: Joacim
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

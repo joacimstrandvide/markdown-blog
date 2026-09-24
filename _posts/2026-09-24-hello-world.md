@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Hello World"
+title: "Start"
 date: 2026-09-24
+excerpt: "Setup."
 ---
 
-Just setting this up.
+Just testing this
